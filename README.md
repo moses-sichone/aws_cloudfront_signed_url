@@ -1,4 +1,4 @@
-# aws_cloudfront_signed_url
+# aws_cloudfront_signed_url_null_saftey
 version 2.0: Updated to support null saftey
 
 Create a signed AWS CloudFront URL using a custom policy
