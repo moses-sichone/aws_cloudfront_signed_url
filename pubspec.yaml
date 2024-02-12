@@ -1,4 +1,4 @@
-name: aws_cloudfront_signed_url
+name: aws_cloudfront_signed_url_null_saftey
 description: Create a signed AWS cloudfront url using a custom policy
 version: 0.0.2
 repository: https://github.com/TarekMedhat/aws_cloudfront_signed_url
